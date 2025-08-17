@@ -1,4 +1,4 @@
-# Eock Paper Scissors
+# Rock Paper Scissors
 
 * Bethany Grentz
 * 8/17/25
